@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.c-header {
+
+    width: 100%;
+    
+    
+}
+
+.ch1 {
+
+    height: 117px;
+    width: 1440px;
+    background-color:#FFC107 ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    
+}
+
+.ch1 img {
+
+    width:324px;
+    height: 84px;
+    margin: 16px 579px 17px 537px;
+    
+}
+.ch2 {
+
+    background-color: #FFA000;
+    width: 1440px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    gap: 58px;
+    padding: 12px 0;
+
+}
+.ch2 a {
+
+    text-decoration: none;
+    color: #FDFDFD;
+}
+
+.s-img {
+
+    background-image: url("image\ 1.png");
+    Width: 1440px;
+    Height: 638.18px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    
+
+}
+
+.pf01 {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    font-size: larger;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.36);
+    align-items: center;
+    justify-content: center;
+    padding: 166px 101px 302.18px 969px;
+    font-size: 70px;
+    
+    
+    
+    
+}
+
+.pf01 p {
+
+    width: 370px;
+    height: 170px;
+    
+}
+
+.s-rec {
+
+    
+    display: flex;
+    width: 1440px;
+    flex-direction: column;
+    gap: 73px;
+    align-items: center;
+    padding-top: 74.82px;
+    color:#FFA000;
+    
+    
+
+
+
+}
+
+.s-rec > h2 {
+
+    font-size: 55px;
+}
+
+.s-rec img {
+
+    width: 345px;
+    height: 342px;
+
+}
+
+.fs-1 {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    padding-bottom: 168px;
+    
+
+}
+
+.f1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 13px;
+}
+
+.f1 p {
+
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    
+}
+
+.f1 button {
+
+    background-color: #176902;
+    color: #FDFDFD;
+    border: none;
+    padding: 9px 43px 10px 43px;
+    cursor: pointer
+
+
+}
+
+.B2 {
+
+    background-image: url("background-2.png");
+    display: flex;
+    width: 1440px;
+    height: 772px;
+    flex-direction: column;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Montserrat', sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+.p-B2 {
+
+    margin-bottom: 107px;
+    width: 100%;
+    height: 100%;
+   
+
+}
+
+.B2-h1 {
+
+    display: flex;
+    font-weight: 700;
+    font-size: 65px;
+    margin: 163px 730px auto 122px;
+    padding-bottom: 73px;
+    
+
+}
+
+.B2-ps {
+
+    font-weight: 500;
+    font-size: 24px;
+    margin:  auto 893px 107px 123px;
+    
+    
+
+}
+
+.footer {
+
+    display: flex;
+    width: 1440px;
+    height: 119px;
+    background-color: #FFC107;
+    color: #FFFFFF;
+    gap: 46px;
+    
+}
+
+.logo-f {
+
+    width: 324px;
+    height: 84px;
+    margin: 18px auto 17px 10px;
+
+}
+
+.p-f {
+
+    font-weight: 700;
+    font-size: 18px;
+    margin: 51px 596px 46px auto ;
+}
+
+;
